@@ -1,4 +1,3 @@
-```
 # Coleta de dados da Amazon e inserção no banco Postgres
 
 Este código tem como objetivo coletar informações de livros da Amazon, incluindo nome, pontuação, classificações e avaliações, e inserir esses dados em um banco de dados Postgres.
