@@ -1,5 +1,5 @@
 #Config Amazon
-number_pages = 3
+number_pages = 2
 key_word = 'python'
 
 

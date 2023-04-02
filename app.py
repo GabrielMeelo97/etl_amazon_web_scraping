@@ -137,4 +137,5 @@ def main():
     insert_data(constants.table, amazon_df)
     return 'sucess' 
 
-main()
+if __name__ == '__main__':
+    main()
